@@ -1,0 +1,41 @@
+{
+	"name": "slotbucket",
+	"title": "slotbucket.js",
+	"description": "Assigning content to locations in HTML according to a set of rules, e.g. to accomplish responsive design.",
+	"keywords": [
+		"responsive design",
+		"responsive",
+		"match",
+		"assign",
+		"slot",
+		"bucket",
+		"bag",
+		"utility",
+		"reorder"
+	],
+	"version": "1.0.0",
+	"author": {
+		"name": "Daniel Perrett",
+		"email": "dperrett@cambridge.org",
+		"url": "https://github.com/pdl/slotbucket/"
+	},
+	"maintainers": [
+		{
+			"name": "Daniel Perrett",
+			"email": "dperrett@cambridge.org",
+			"url": "https://github.com/pdl/"
+		}
+	],
+	"licenses": [
+		{
+			"type": "BSD-2-Clause",
+			"url": "https://github.com/pdl/slotbucket/readme.md"
+		}
+	],
+	"bugs": "https://github.com/pdl/slotbucket/issues",
+	"homepage": "hhttps://github.com/pdl/slotbucket/",
+	"docs": "https://github.com/pdl/slotbucket/",
+	"dependencies": {
+		"jquery": ">=1.7"
+	}
+}
