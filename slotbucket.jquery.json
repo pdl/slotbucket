@@ -3,8 +3,8 @@
 	"title": "slotbucket.js",
 	"description": "Assigning content to locations in HTML according to a set of rules, e.g. to accomplish responsive design.",
 	"keywords": [
-		"responsive design",
 		"responsive",
+		"design",
 		"match",
 		"assign",
 		"slot",
