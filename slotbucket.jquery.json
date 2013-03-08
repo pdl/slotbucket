@@ -33,7 +33,7 @@
 		}
 	],
 	"bugs": "https://github.com/pdl/slotbucket/issues",
-	"homepage": "hhttps://github.com/pdl/slotbucket/",
+	"homepage": "https://github.com/pdl/slotbucket/",
 	"docs": "https://github.com/pdl/slotbucket/",
 	"dependencies": {
 		"jquery": ">=1.7"
